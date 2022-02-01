@@ -21,4 +21,9 @@ Modelin **YOLO** ile eğitilen kısmı veriyi 4 üst kategoriye ayırır ve **CN
 
 Ayrıca modelin başarımını çeşitli dış etkenlere karşı modeli güçlendirmek için **Adversarial Attack** yöntemi kullanılmıştır.
 
-![19 01 2022 21_14_47](https://user-images.githubusercontent.com/44377977/152047955-5cbb2c6e-e57f-4315-923c-920a2992ba95.png)
+![19 01 2022 21_14_47](https://user-images.githubusercontent.com/44377977/152047955-5cbb2c6e-e57f-4315-923c-920a2992ba95.png = 250x250)
+Proje Danışmanı: Dr. Öğretim Üyesi Nilgün Güler Bayazıt
+Şencan, Çağatay
+Öztürk, Gizem
+Ocak 2022
+
